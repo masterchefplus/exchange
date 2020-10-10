@@ -1,15 +1,16 @@
 {
   "short_name": "SushiSwap",
-  "name": "Farm SUSHI with Uniswap LP Tokens",
+  "name": "SushiSwap",
   "icons": [
     {
-      "src": "favicon.png",
+      "src": "./logo.png",
+      "sizes": "864x864",
       "type": "image/png",
-      "sizes": "240x240"
+      "purpose": "any maskable"
     }
   ],
-  "start_url": ".",
+  "orientation": "portrait",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#ff007a",
+  "background_color": "#fff"
 }
