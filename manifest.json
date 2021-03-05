@@ -1,16 +1,16 @@
 {
-  "short_name": "SushiSwap",
-  "name": "SushiSwap",
+  "short_name": "GooseFinance",
+  "name": "GooseFinance",
   "icons": [
     {
       "src": "./logo.png",
-      "sizes": "864x864",
+      "sizes": "160x160",
       "type": "image/png",
       "purpose": "any maskable"
     }
   ],
   "orientation": "portrait",
   "display": "standalone",
-  "theme_color": "#ff007a",
-  "background_color": "#fff"
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
 }
